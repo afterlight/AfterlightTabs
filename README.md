@@ -1,0 +1,4 @@
+AfterlightTabs
+==============
+
+Simple jQuery tabs
